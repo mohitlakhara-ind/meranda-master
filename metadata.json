@@ -1,0 +1,14 @@
+{
+  "name": "meranda-master",
+  "description": "Professional learning codebase built with HTML.",
+  "topics": [
+    "html",
+    "learning",
+    "optimized-portfolio"
+  ],
+  "homepage_url": "https://github.com/mohitlakhara-ind/meranda-master",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
+}
